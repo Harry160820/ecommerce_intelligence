@@ -3,7 +3,7 @@
 kaggle.json
 *.key
 
-#  Raw data (never commit CSV files) 
+#  Raw data 
 *.csv
 *.parquet
 *.h5
@@ -18,12 +18,12 @@ __pycache__\
 dist\
 build\
 
-#  ML artifacts (too large for GitHub) 
+#  ML artifacts
 *.pkl
 *.joblib
 mlruns\
 
-#  Power BI (share via Google Drive link in README instead) 
+#  Power BI 
 *.pbix
 
 #  Windows OS 
