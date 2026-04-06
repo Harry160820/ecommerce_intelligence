@@ -19,3 +19,4 @@ seaborn==0.13.0
 plotly==5.18.0
 kaggle==1.5.16
 pytest==7.4.3
+setuptools==79.0.1

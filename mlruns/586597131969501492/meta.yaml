@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/586597131969501492
+creation_time: 1775476692374
+experiment_id: '586597131969501492'
+last_update_time: 1775476692374
+lifecycle_stage: active
+name: ecommerce-churn-prediction
