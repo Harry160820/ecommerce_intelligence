@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1775836141962
+current_stage: None
+description: ''
+last_updated_timestamp: 1775836141962
+name: ecommerce_clv
+run_id: e35e9f379efb406a9d6153a3266bc05c
+run_link: ''
+source: mlflow-artifacts:/515748471010140176/e35e9f379efb406a9d6153a3266bc05c/artifacts/clv_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/515748471010140176/e35e9f379efb406a9d6153a3266bc05c/artifacts/clv_model
+user_id: null
+version: 1

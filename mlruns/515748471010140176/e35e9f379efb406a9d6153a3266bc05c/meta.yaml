@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/515748471010140176/e35e9f379efb406a9d6153a3266bc05c/artifacts
+end_time: 1775836141998
+entry_point_name: ''
+experiment_id: '515748471010140176'
+lifecycle_stage: active
+run_id: e35e9f379efb406a9d6153a3266bc05c
+run_name: lightgbm-clv-v1
+run_uuid: e35e9f379efb406a9d6153a3266bc05c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775836115909
+status: 3
+tags: []
+user_id: dell

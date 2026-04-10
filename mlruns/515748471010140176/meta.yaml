@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/515748471010140176
+creation_time: 1775836108078
+experiment_id: '515748471010140176'
+last_update_time: 1775836108078
+lifecycle_stage: active
+name: ecommerce-clv-prediction
