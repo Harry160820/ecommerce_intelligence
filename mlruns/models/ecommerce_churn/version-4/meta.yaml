@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1775480463936
+current_stage: None
+description: ''
+last_updated_timestamp: 1775480463936
+name: ecommerce_churn
+run_id: 86589ea53f424827881abb3b9d196da2
+run_link: ''
+source: mlflow-artifacts:/586597131969501492/86589ea53f424827881abb3b9d196da2/artifacts/churn_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/586597131969501492/86589ea53f424827881abb3b9d196da2/artifacts/churn_model
+user_id: null
+version: 4
