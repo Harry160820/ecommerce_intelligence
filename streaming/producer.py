@@ -10,7 +10,7 @@ HOW TO RUN (Kafka must be started first — see README):
  
 STOP: press Ctrl + C
 """
-
+# C:\Users\dell\OneDrive\Desktop\ecommerce_intelligence\streaming\producer.py
 import os
 import json
 import time 
