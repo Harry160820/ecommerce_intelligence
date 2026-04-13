@@ -75,6 +75,6 @@ ecommerce-intelligence\
 ---
 
 ## Author
-- ***Hari Om**
+- **Hari Om**
 
-<!-- Your Name | [GitHub](https://github.com/YourUsername) | [Upwork](https://upwork.com/freelancers/~yourprofile) -->
+Hari Om | [GitHub]([https://github.com/YourUsername](https://github.com/harry160820)) | [Upwork]([https://upwork.com/freelancers/~yourprofile](https://www.upwork.com/freelancers/~01312454b54d248320))
